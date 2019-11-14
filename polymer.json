@@ -12,7 +12,7 @@
   ],
   "builds": [
     { 
-      "preset": "es6-unbundled"
+      "preset": "build"
     }
   ],
   "moduleResolution": "node",
