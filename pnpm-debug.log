@@ -1,0 +1,17 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1,
+    "workspacePrefix": null
+  },
+  "1 error pnpm": {
+    "message": {
+      "code": "ERR_PNPM_NO_SCRIPT"
+    },
+    "err": {
+      "name": "Error",
+      "message": "Missing script: build",
+      "code": "ERR_PNPM_NO_SCRIPT",
+      "stack": "Error: Missing script: build\n    at Object.run (/usr/pnpm-global/2/node_modules/.registry.npmjs.org/pnpm/4.1.5/node_modules/pnpm/lib/cmd/run.js:18:15)"
+    }
+  }
+}
