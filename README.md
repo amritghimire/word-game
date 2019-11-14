@@ -1,6 +1,6 @@
 #  "All The Words That I Know" Game
 
-A Word Game . See it deployed at [wordgame.now.sh](wordgame.now.sh).
+A Word Game . See it deployed at [https://github.com/open-source-ideas/open-source-ideas/issues/204](https://github.com/open-source-ideas/open-source-ideas/issues/204).
 
 This is based on a facebook post by author-editor Nathan J. Robinson, relevant extracts below:
 
